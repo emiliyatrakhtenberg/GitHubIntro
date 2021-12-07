@@ -2,9 +2,9 @@
 id: 1jtyf
 name: "Testing "
 file_version: 1.0.2
-app_version: 0.6.9-1
+app_version: 0.6.9-2
 file_blobs:
-  Shopping List: 99b0586c03b91065827ce5cc0d4296449331f7d0
+  Shopping List: ecdbb54d858d704cdd05daa78a8f7e7a9ea439a4
 ---
 
 Let's test this out on my own repo
@@ -21,10 +21,8 @@ Let's test this out on my own repo
 🟩 5      Flour
 🟩 6      Chocolate chips
 🟩 7      Sugar
-🟩 8      Baking Soda
-🟩 9      Vanilla extract
-🟩 10     Sea salt 
-⬜ 11     
+⬜ 8      
+⬜ 9      
 ```
 
 <br/>
